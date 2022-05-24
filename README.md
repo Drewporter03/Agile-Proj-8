@@ -8,6 +8,7 @@
 - [Stakeholder Register](https://docs.google.com/document/d/1evM5iGfDYtENU8ol7J256PqZXMwiBqF5/edit?usp=sharing&ouid=117044796884660561893&rtpof=true&sd=true) .
 ### Persona 1, 2 and 3:
 - [Persona 1 (Drew)](https://1drv.ms/w/s!AnQfUFBxnnvIgxUPoMc_tXluhvSj?e=yfKsti)
+- [Persona 2 (Travis)](https://sway.office.com/leVsOBIlp7U60fiz?authoringPlay=true&publish)
 ### Gantt Chart:
 - [Gantt Chart](https://1drv.ms/w/s!AnQfUFBxnnvIgdFDQA03Jxu2D4G0aw?e=QMpDx6).
 ### Resource Requirement List:
