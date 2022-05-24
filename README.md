@@ -8,7 +8,7 @@
 - [Stakeholder Register](https://docs.google.com/document/d/1evM5iGfDYtENU8ol7J256PqZXMwiBqF5/edit?usp=sharing&ouid=117044796884660561893&rtpof=true&sd=true) .
 ### Persona 1, 2 and 3:
 - [Persona 1 (Drew)](https://1drv.ms/w/s!AnQfUFBxnnvIgxUPoMc_tXluhvSj?e=yfKsti)
-- [Persona 2 (Travis)](https://sway.office.com/leVsOBIlp7U60fiz?authoringPlay=true&publish)
+- [Persona 2 (Travis)](https://sway.office.com/pZE9xm2PAEHoUV7z?authoringPlay=true&publish)
 - [Persona 3 (Rio)](https://temahau-my.sharepoint.com/:w:/g/personal/udarbr1_student_eit_ac_nz/EdeZV8S9mVlDgQb7n_JtvLcBGihqVQx38tu4tHaoN005uw?e=3qYdPO)
 ### Gantt Chart:
 - [Gantt Chart](https://1drv.ms/w/s!AnQfUFBxnnvIgdFDQA03Jxu2D4G0aw?e=QMpDx6).
