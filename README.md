@@ -11,7 +11,7 @@
 - [Persona 2 (Travis)](https://sway.office.com/pZE9xm2PAEHoUV7z?authoringPlay=true&publish)
 - [Persona 3 (Rio)](https://temahau-my.sharepoint.com/:w:/g/personal/udarbr1_student_eit_ac_nz/EdeZV8S9mVlDgQb7n_JtvLcBGihqVQx38tu4tHaoN005uw?e=3qYdPO)
 ### Gantt Chart:
-- [Gantt Chart](https://1drv.ms/w/s!AnQfUFBxnnvIgdFDQA03Jxu2D4G0aw?e=QMpDx6).
+- [Gantt Chart](https://temahau-my.sharepoint.com/:x:/g/personal/ported11_student_eit_ac_nz/Ea6ltlrxbbJGjxCXBHKh1n4BPUrvK0dljacAJhiYrdsNEQ?e=OaWaGt).
 ### Resource Requirement List:
 ### Risk Register:
 ### User Acceptance Test Result
