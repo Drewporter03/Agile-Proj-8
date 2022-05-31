@@ -15,5 +15,6 @@
 ### Resource Requirement List:
 - [Resource Needs](https://docs.google.com/document/d/1Y7g-BB42ulxCqMxrnJW7e4KnrcIYPIhM/edit?usp=sharing&ouid=117044796884660561893&rtpof=true&sd=true)
 ### Risk Register:
+-[Risk Register](https://temahau-my.sharepoint.com/:w:/g/personal/ported11_student_eit_ac_nz/Eb5gl_-05MtBtWtv-yoFTkAB0Zj0ZrqQaHcGZOfwg3FdkQ?e=rLG6fk)
 ### User Acceptance Test Result
 - [Test Result](https://temahau-my.sharepoint.com/:x:/g/personal/ported11_student_eit_ac_nz/EVSSqtP5RqFNp_mHoUnH1DIBNShydrecEhsQupx-sP4Jtw?e=a40iEj)
