@@ -1,5 +1,6 @@
 
-## __Agile-Proj-8__
+## __Agile-Proj-8__ 
+#### This read.me file contains all the documentation corallated with our development of the E-commerce Website called Timups. It contains 7 required documents as outlined within our project plan. 
 ### Group Meeting Reports 1, 2 and 3:
 - [Meeting report 1](https://docs.google.com/document/d/1O-OwQLU_UAsmS6hOvdzC6CcWkiHUeZhi/edit?usp=sharing&ouid=117044796884660561893&rtpof=true&sd=true).
 - [Meeting report 2](https://docs.google.com/document/d/1e2SyTeOGXm2sh9n_yRqnGbnCzptnsL48/edit?usp=sharing&ouid=117044796884660561893&rtpof=true&sd=true).
